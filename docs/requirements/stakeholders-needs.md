@@ -23,7 +23,7 @@
 | Тренер | Експерт, що забезпечує навчальний процес  для спортсменів навчальних груп. | Створення та редагування навчальних груп та проведення статистики. | Взаємодія  з спортсменами. |
 | Спортсмен | Людина, що використовує сервіс для поточного контролю. | Перегляд власних даних. | Взаємодія з системою. |
 
-![buisness-use-cases](http://www.plantuml.com/plantuml/png/ZPJDJi9G48NtFCKDQxkmnIqXyH741sYGdJy9XPqBVZHnOMHZSAdu19MVM0NAAyoyaMUON0AzJQinnimvyvsvSoyqecxOwVPkhYi6Fs6hUzSnzCbzMjA6bjm_B4zf2o7bFWzvG6knL7PwBsgtmgXjglHAAIqefXd5FAJanE2_P5TPyLWhQ5N4oBgaj3tcyeHcHdxdg8wGEwcQC3BDo_FJJE87xCAVAuysQ1wZ5OI5_ZqIa1SR7Y47J7v2DUK1SlTyFyEVecD6gMv4sRg51x1N_8BXtRLGR7515aU9vC6qnY3qAvkH3Za326FRLwlyxvofh9E-S1QXfhJEZBVZNRXhUvVB1N8k5qCBGz_2bcduMUOt29EGX1-T47xRtmibDi0l2N2FYadbjM3E7mi9oY3k98TtgMMUM5oj10Vl_g7BYxDzPxhyl0TllFkw-m4vB1ZFy-gwSaU2qCmNLF7p59M2N4arFMV1p3fFWK4TVf53BK6XHJsrOWzCkkD6-_OAtpn_)
+![buisness-use-cases](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use%20cases/index.puml)
 
 #### Категорії користувачів
 **Тренер**<br>
