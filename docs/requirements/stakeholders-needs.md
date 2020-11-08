@@ -22,7 +22,8 @@
 |---|---|---|---|
 | Тренер | Експерт, що забезпечує навчальний процес  для спортсменів навчальних груп. | Створення та редагування навчальних груп та проведення статистики. | Взаємодія  з спортсменами. |
 | Спортсмен | Людина, що використовує сервіс для поточного контролю. | Перегляд власних даних. | Взаємодія з системою. |
-![buisness-use-cases](https://github.com/dmlitvin/database_basics_template/tree/master/docs/use%20cases/index.puml)
+
+![buisness-use-cases](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use%20cases/index.puml)
 
 #### Категорії користувачів
 **Тренер**<br>
