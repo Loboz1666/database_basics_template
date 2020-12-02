@@ -1,18 +1,21 @@
 # Модель прецедентів
 
-В цьому файлі необхідно перелічити всі документи, розроблені в проекті та дати посилання на них.
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/createGroup.puml)
 
-*Модель прецедентів повинна містити загальні оглядові діаграми та специфікації прецедентів.*
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/createSportman.puml)
 
-*Вбудовування зображень діаграм здійснюється з використанням сервісу plantuml.com. Сервіси взаємодіють так, як зобраажено на діаграмі нижче.*
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/editCalendar.puml)
 
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/boldak/database_basics_template/master/src/uml/example.puml)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/editProfileTrainer.puml)
 
-*Для вбудовування необхідно використовувати:*
-```
-![IMAGE TITLE](http://www.plantuml.com/plantuml/proxy?cache=no&src=URL_OF_PUML_SOURCE)
-```
-Наприклад, зображена вище діаграма вбудована за допомогою:
-```
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/boldak/database_basics_template/master/src/uml/example.puml)
-```
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/editSportman.puml)
+
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/editSportmanByTrainer.puml)
+
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/removeFromGroupSportmen.puml)
+
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/removeSportman.puml)
+
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/showGroup.puml)
+
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dmlitvin/database_basics_template/master/docs/use_cases/sortGroup.puml)
