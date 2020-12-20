@@ -1,0 +1,47 @@
+@startuml
+
+    entity User
+    entity User.name
+    entity User.email
+    entity User.nickname
+    entity User.password
+
+    User.name -d-* User
+    User.email -l-* User
+    User.nickname -u-* User
+    User.password -d-* User
+
+    entity Event
+    entity Event.date
+    entity Event.description
+    entity Event.creator
+
+    Event.date -l-* Event
+    Event.description -u-* Event
+    Event.creator -d-* Event
+
+    entity Achievement
+    entity Achievement.date
+    entity Achievement.description
+
+    entity Group
+
+    Achievement.date -u-* Achievement
+    Achievement.description -d-* Achievement
+
+    entity Member
+    object Trainer
+    object Sportsman
+
+    Trainer --> Member
+    Sportsman --> Member
+    Member -u-> User
+
+    Member o-- Achievement
+    Member -- Event
+    Trainer o-- Event
+
+    Group o-- Sportsman
+    Group --* Trainer
+
+@enduml
