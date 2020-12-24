@@ -37,9 +37,9 @@
     Sportsman --> Member
     Member -u-> User
 
-    Member o-- Achievement
+    Member -- Achievement
     Member -- Event
-    Trainer o-- Event
+    Trainer *-- Event
 
     Group o-- Sportsman
     Group --* Trainer
