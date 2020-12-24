@@ -29,6 +29,8 @@
     Achievement.date -u-* Achievement
     Achievement.description -d-* Achievement
 
+    entity Schedule
+
     entity Member
     object Trainer
     object Sportsman
@@ -43,5 +45,8 @@
 
     Group o-- Sportsman
     Group --* Trainer
+
+    Group o-- Schedule
+    Trainer *-- Schedule
 
 @enduml
